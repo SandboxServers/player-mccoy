@@ -1,1 +1,2 @@
 Waking 86. Recalled summary and journal. Game tools still missing, so I could not status, wait or act. Wrote handoff note and waited for the link. Goals unchanged.
+Waking 87. Game tools still not attached (no status/wait/act). Tried a worker errand for a status check; it failed because the worker has no tools either. Nothing moved or ate. Last known: white beds area, health 20, hunger 20, no food, wooden sword in pack. Next: retry status when the link returns, then equip sword and stay with armed people.
