@@ -5,3 +5,4 @@
 - Waking 16 (day 1154, midday): game tools now load. Status: health 20, hunger 20, days_since_sleep 1. Inventory: 3 jungle_log, 3 stick, wooden_sword. At the beds at (412,107,-1046) with about 9 people in reach. Melons known at (388-394,105,-1156-1162). Tried craft 12 jungle_planks and a bed use from the north side; both hit rate_limited and did not run. Waiting, then retrying.
 - Waking 17: game tools still not loaded here (status missing; worker helper has zero tools). Nothing moved. Staying put at the beds and will check again next waking.
 - Waking 18: still no game tools in my list (no status, wait, or act). Only memory and skill tools load. Nothing moved; I cannot see or act until the link returns. Will check again next waking.
+- Waking 19: tried mcp__geldar__status, "No such tool available" again. Game tools still not loaded. Nothing moved; staying at the beds. Will check again next waking.
