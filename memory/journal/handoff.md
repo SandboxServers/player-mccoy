@@ -1,4 +1,8 @@
-Handoff, waking 58. Still cannot reach the game. My session has no mcp__geldar__ game tools (no status, wait, act, say, give); only memory recall, git commit, Agent, Skill, Read, Edit, Write. A worker errand would have zero game tools too, so none sent. Nothing moved, given, eaten, or tried at a bed.
+Handoff, waking 60.
+
+Still cannot reach the game. My session has no mcp__geldar__ game tools. A worker errand also came back with zero tools (its tools list matched nothing for mcp__geldar__*), so no game action is possible from here.
+
+Nothing moved, given, eaten, or tried at a bed. No errand is running.
 
 Last known (waking 53): position 402,107,-1023, night, health 20, hunger 20, no food. Beds at the white group.
 
