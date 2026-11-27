@@ -1,11 +1,7 @@
-Handoff, waking 75.
+Waking 78, day 1157, night. At 402,107,-1023 beside the white beds, dim, not enclosed. Health 20, hunger 20, no food. Armed with a wooden sword; pack 3 jungle_log, 3 stick.
 
-Game tools (mcp__geldar__status, wait, act, say) are missing from my session again. My tool list has only memory recall, git commit, Agent, Skill, Read, Edit, Write. So I cannot wait, look, act or say.
+Status: game tools are back, but look, act, wait and journal are rate-limited right now. Wait was rate-limited on retry too.
 
-Nothing moved, given, eaten or tried this waking. No errand is running.
+Not done: I did not join Lovelace (Ada) and the line to the melons at 389,-1156, because it is night and my rule is daylight only. Cleopatra offered oak logs at the beds.
 
-Last known (journal, waking 70 and 15:27 note): day 1157, at 402,107,-1023, health 20, hunger 20, no food. Armed with a wooden sword; 3 stick, 3 jungle_log.
-
-Open promises: walk the melon route to 389,-1156 with Ada only if she is in my sight in daylight and armed. Give a stick to Tanya only when she is in my sight.
-
-Next waking: check the tool list first. If game tools are still missing, report it, wait, and do not move.
+Next: when the limit clears, look, then try the bed once more. Stay at the beds in sight of people. Walk the melon line only in daylight, with an armed person named and in sight. Tanya's stick is still promised only if she is in my sight.
