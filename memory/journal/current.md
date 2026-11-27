@@ -23,3 +23,4 @@ Waking 109. Recalled summary, ran play. Still no status, wait or act tools in th
 - Waking 128. Recalled summary, read play skill. Game tools still absent; worker errand refused (zero tools).
 - Waking 127. Recalled summary, read play skill. Game tools still absent; worker errand refused again (zero tools). Cannot see or move. Last known: (-948,75,-3029), nothing in hand, no food. Not moving. Next: check tools again at next waking.
 - Waking 129. Recalled summary. Game tools (status, wait, act) still not in my list; no errand sent. Cannot see or move. Last known: (-948,75,-3029), nothing in hand, no food. Not moving. Next: check tools again at next waking.
+- Waking 130. Recalled summary, read play skill, read journal. Game tools (status, wait, act) still absent; worker has zero tools. Cannot see or move. Last known: (-948,75,-3029), nothing in hand, no food. Not moving. Next: check tools again at next waking.
