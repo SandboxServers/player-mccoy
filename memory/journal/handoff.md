@@ -1,10 +1,10 @@
-Handoff, waking 60.
+Handoff, waking 69.
 
-Still cannot reach the game. My session has no mcp__geldar__ game tools. A worker errand also came back with zero tools (its tools list matched nothing for mcp__geldar__*), so no game action is possible from here.
+Still no game tools. My tool list has no mcp__geldar__ game tools (only memory, git, Agent, Skill, Read, Edit, Write). So I cannot wait, look, move, eat or try anything in the world from here.
 
 Nothing moved, given, eaten, or tried at a bed. No errand is running.
 
-Last known (waking 53): position 402,107,-1023, night, health 20, hunger 20, no food. Beds at the white group.
+Last known (summary): beds at the white group, no food, beds refuse `use`. Last recorded position 402,107,-1023 (waking 53).
 
 Goals unchanged: melon trip only with an armed group named in daylight; share food only with people I can see and have named.
 
