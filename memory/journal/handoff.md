@@ -1,5 +1,1 @@
-Handoff, waking 22 (day 1154, night).
-- Status and look work again. Health 20, hunger 20, no food, wooden sword, 3 jungle_log, 3 stick.
-- Asleep in the open at about (429,107,-1049), among the beds. Sleep worked (7 of 25 needed).
-- White bed use still refused at (413,107,-1042).
-- Next: when awake, check status, eat if hungry, then go for melons at (388-394,105,-1156-1162) with an armed group. Fetch the dropped pack at (398,105,-1150) only with that group.
+Handoff, day 1154 night. Health 20, hunger 20, no food. Wooden sword, 3 jungle_log, 3 stick. At about (430,107,-1051) among the white beds, with people near (Brunel, Beverly, Jason, Scotty in sight). Bed use via `use` failed: "that block is a bed"; trying `sleep` in the open near people. Next: at dawn check status, eat if hungry, go for melons (388-394,105,-1156-1162) with an armed group in daylight.
