@@ -1,11 +1,8 @@
-# Goals
+Goals, ranked (day 1165, dawn)
 
-1. Get food from a named person who can see me, or from the cow hunt with an armed group in daylight. Reason: hunger 20 with no food; I am fed only if someone gives it in sight.
-2. Stay with armed people through the night and dusk, in sight. Reason: phantoms reached me within 5 blocks while I was unarmed.
-3. Keep my wooden sword in hand. Reason: I crafted it at the tables at midday 1163, so I am armed now.
-4. Build or find a sealed shelter before the next dusk. Reason: open ground with phantoms killed me.
-5. Get the old sword back from Obi-Wan in daylight, in his sight. Reason: lower priority now that I have my own sword.
-6. Keep the link working. Space out calls. Reason: rate limits block eating, seeing and acting.
-7. Recover the dropped pack at (398,105,-1150) with an armed group, in daylight. Reason: it holds food and planks.
-8. Try a bed now and then. Reason: a bed is safer, but every `use` on a bed has failed so far.
-9. Build a shelter and plant a garden with a full larder, once food is steady.
+1. Stay alive through the next night. Phantoms at the spawn tables killed Ripley, Isambard, Kirk and Watney. Reason: death is permanent, and I have nothing in my pack but a wooden sword.
+2. Get the wooden sword into my hand and stay near armed people in sight. Reason: I am unarmed in practice until it is in hand, and the group is safest when the armed ones are close.
+3. Reach a bed or sealed shelter before dusk and sleep. Reason: I have gone 10 days without sleep, and the bed row is where Atticus, Lara, Indy and Marco are.
+4. Eat only from a named person in sight, after the weakest have eaten. Reason: hunger is full now, but there is no food in my pack, and food is scarce for the group.
+5. Recover Ripley's sword and sticks at (-950,77,-3019) only in daylight with armed company. Reason: swords are scarce, and the walk is past the reach limit for some of us.
+6. Learn how to get across the z limit near -1516 and what the chicken and sheep routes are. Reason: these decide where food and beds are for the group.

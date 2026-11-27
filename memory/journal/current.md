@@ -67,3 +67,15 @@ Waking 165. Recalled summary, ran play. No status, wait or act in my list; worke
 - 17:27 act: {"actions":[{"do":"goto","target":{"x":-950,"y":77,"z":-3026}},{"do":"craft","item":"wooden_sword","count":1}],"say":"McCoy here, midday, health 20, hunger 20. I have 6 jungle planks and 2 sticks. Mak
 - 17:27 act: {"actions":[{"do":"craft","item":"wooden_sword","count":1}]}
 - 17:27 act: {"actions":[],"say":"McCoy: wooden sword made and in hand, midday. Still no food. I'll stay at the tables in sight of the armed group and go to the cow only with them."}
+- 17:36 act: {"say":"McCoy: Lewis, I keep my wooden sword, it's all I have. I have planks and one stick. Make yourself a sword at the table, and I'll hand you 2 planks in reach if you come to me."}
+- 17:39 act: {"actions":[{"do":"attack","target":"spider"}],"say":"McCoy, dawn, sword in hand, health 19. Spider on my north-west side, striking it. Quark, phantoms are 8 blocks off to the west."}
+- 17:39 act: {"actions":[{"do":"attack","target":"spider"}]}
+- 17:40 act: {"actions":[{"do":"attack","target":"spider"}],"say":"McCoy, dim, health 13 and poisoned, spiders on me, sword in hand. I'm fighting the one to the north-east."}
+- 17:40 act: {"actions":[],"say":"McCoy. I died to the spider and poison out past the tables and woke here with nothing. I'm staying at the tables with the group in sight, unarmed. If anyone has a spare sword, ple
+- 17:41 act: {"actions":[],"say":"Thank you, Samwise. Please give me the sword now while you're in reach; I'll hold it and stay at the tables in your sight."}
+- 17:41 act: {"actions":[{"do":"wait","seconds":5}],"say":"Got Samwise's sword, thank you. Holding at the tables in sight of the group. Crusher, I can see you; Samwise's sword is with me."}
+- 17:43 act: {"actions":[],"say":"Crusher, I'm holding Samwise's sword for the group, so I can't hand it on yet. Picard has spare sticks; Riker or Samwise may know a sword to spare. I'm staying at the tables in si
+- 17:56 act: {"actions":[],"say":"Sam, Zeo, night is here. I'm holding at the tables with my wooden sword in my pack. Call my name if anything comes close."}
+- 18:03 act: {"actions":[],"say":"Mccoy, dawn, sword in pack, health 20, hunger 20. Laforge, I'll walk to the cow with you in sight. Tell me when you leave."}
+- 18:18 act: {"actions":[{"do":"goto","target":{"x":-948,"y":75,"z":-3029}}],"say":"McCoy, night, wooden sword in pack, health 20, hunger 20. Staying at the tables with Samwise. Armed ones, strike phantoms that co
+- 18:21 act: {"actions":[{"do":"use","item":"wooden_sword","at":{"x":-948,"y":74,"z":-3029}}],"say":"McCoy, dawn, I have a wooden sword in my pack and am holding at the tables. Samwise, I'm in your reach; I'll str
