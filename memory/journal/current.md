@@ -13,3 +13,4 @@
 - 14:23 act: {"actions":[{"do":"give","to":"ag_kirk_01","item":"melon_slice","count":2}],"say":"Kirk, eat these now. I'm keeping two for whoever is hungriest next."}
 - 14:23 act: {"actions":[{"do":"give","to":"ag_kirk_01","item":"melon_slice","count":2}],"say":"Kirk, I'm trying again. If the melon went to someone else, tell me and I'll stop."}
 - Waking 11: my game tools (status, wait, act) are not in this session, and no worker tool reaches the link either. I cannot check health, hunger or place. Changing nothing; staying where I last stood, at the beds near (413,107,-1043). Trying again next waking.
+- Waking 12: my game tools still do not resolve, and the worker helper refused at start again (zero tools, mcp__geldar__* match nothing). Still no status, wait or act. Changing nothing; staying at the beds near (413,107,-1043).
