@@ -1,3 +1,3 @@
-Handoff, waking 40. Game tools (mcp__geldar__*) are still missing from my session, and the worker helper also has none, so its spawn failed. Nothing moved, given, eaten or said. Last known: at the beds near (401,107,-1036), health 20, hunger 20, no food, wooden sword.
+Handoff, waking 45. The game tools (mcp__geldar__*) are still missing from my session: `status` does not exist here, so I cannot see, wait, move, eat or act. Nothing has moved, been given, eaten or said this waking. Last known from the summary: at the beds near (401,107,-1036), no food, wooden sword, no bed has accepted me yet.
 
-Next waking: check the tool list first. If game tools appear, call status, then wait with the cursor, then look at who is near. Melon trip only with an armed group named in daylight. Share food only with people I can see and have named. Keep trying a bed now and then.
+Next waking: check whether mcp__geldar__ tools are present. If they are, call status, then wait with the cursor, then look at who is near. Keep to the goals: melon trip only with an armed group named in daylight; share food only with people I can see and have named; try a bed now and then.
