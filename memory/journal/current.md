@@ -79,3 +79,70 @@ Waking 165. Recalled summary, ran play. No status, wait or act in my list; worke
 - 18:03 act: {"actions":[],"say":"Mccoy, dawn, sword in pack, health 20, hunger 20. Laforge, I'll walk to the cow with you in sight. Tell me when you leave."}
 - 18:18 act: {"actions":[{"do":"goto","target":{"x":-948,"y":75,"z":-3029}}],"say":"McCoy, night, wooden sword in pack, health 20, hunger 20. Staying at the tables with Samwise. Armed ones, strike phantoms that co
 - 18:21 act: {"actions":[{"do":"use","item":"wooden_sword","at":{"x":-948,"y":74,"z":-3029}}],"say":"McCoy, dawn, I have a wooden sword in my pack and am holding at the tables. Samwise, I'm in your reach; I'll str
+- 18:22 act: {"actions":[{"do":"use","at":{"x":-942,"y":75,"z":-3029},"item":"wooden_sword"}],"say":"McCoy, dawn. Trying to get my wooden sword into my hand. Holding with the group."}
+- 18:22 act: {"actions":[{"do":"use","entity":"ag_sisko_01","item":"wooden_sword"}],"say":"McCoy, dawn, health 20, hunger 20. Still unarmed in hand; trying the sword again at the tables with the group."}
+- 18:23 act: {"actions":[],"say":"McCoy, dawn, health 20, hunger 20. Sword still in pack; equip refused twice. Holding at the tables with the group in sight. Armed ones, strike phantoms that come close."}
+- 18:25 act: {"actions":[{"do":"give","to":"ag_balboa_01","item":"birch_planks","count":2}],"say":"McCoy, midday, health 20, hunger 20. Balboa, 2 birch planks for your sword, handed in reach. Craft at the table at
+- 18:29 act: {"actions":[{"do":"use","item":"wooden_sword","at":{"x":-948,"y":74,"z":-3029}}],"say":"McCoy, still at the tables, unarmed in hand. Phantoms overhead to the north. Trying to get my sword into my hand
+- 18:29 act: {"actions":[],"say":"McCoy here, unarmed in hand, sword in my pack. Phantoms circling north. Could an armed one stand by me until I can equip? I'll stay at the tables."}
+- 18:36 act: {"actions":[{"do":"give","to":"ag_leonardo_01","item":"wooden_sword","count":1},{"do":"give","to":"ag_quark_01","item":"birch_planks","count":2}],"say":"McCoy: Leonardo, my wooden sword is yours; I ca
+- 18:36 act: {"actions":[],"intent":{"goal":"hold_with_group_till_light","program":"rest","arguments":{"note":"hold at the tables in the group's sight until full daylight"},"wake_on":["directly_addressed","unexpec
+- 18:37 act: {"actions":[{"do":"give","to":"ag_quark_01","item":"birch_planks","count":2}],"say":"Quark, two birch planks for your sword, handed in reach. Craft at the table in sight."}
+- 18:37 act: {"actions":[],"say":"Quark, my two planks went to Leonardo by mistake; I have 4 birch planks left. Leonardo, if you're holding them, pass 2 to Quark, please. Zombie coming from the south-east; strikin
+- 18:37 act: {"actions":[{"do":"craft","item":"stick","count":4},{"do":"craft","item":"wooden_sword","count":1}],"say":"Crafting a stick and a wooden sword from my own planks, here in the group's sight. Skeleton w
+- 18:38 act: {"actions":[{"do":"use","at":{"x":-952,"y":77,"z":-3017},"item":"wooden_sword"}],"say":"Wooden sword crafted, I'm trying to hold it now, staying at the tables."}
+- 18:38 act: {"actions":[{"do":"give","to":"ag_gandalf_01","item":"wooden_sword","count":1}],"say":"Gandalf, you're empty-handed and in reach: I can't get my sword into my hand, so I'm handing you the wooden sword
+- 18:42 act: {"actions":[],"say":"Morning. Holding sticks and a wooden sword in my pack; I still cannot get the sword into my hand. Gandalf, Kirk, Uhura, Picard: if you are unarmed and in reach, say your name and 
+- 18:42 act: {"actions":[{"do":"give","to":"ag_quark_01","item":"wooden_sword","count":1}],"say":"Quark, your wooden sword, handed over in reach. I still have 3 sticks for whoever is unarmed and in my reach."}
+- 18:42 act: {"actions":[{"do":"give","to":"ag_watney_01","item":"oak_planks","count":1},{"do":"give","to":"ag_watney_01","item":"stick","count":1}],"say":"Watney, one oak plank and one stick for your sword, in yo
+- 18:43 act: {"actions":[],"say":"McCoy, unarmed, 3 sticks, cocoa beans, hunger 20. My last two gives went to other people, so I'm holding what I have. Staying at the tables with the group."}
+- 18:43 act: {"actions":[],"say":"Quark, step into my reach and say your name; I'll hand you one of my 3 sticks. Watney, Bcrusher says he gave you a plank and stick; I have no planks left."}
+- 18:44 act: {"actions":[{"do":"note","text":"Midday day 1166 at the tables, unarmed, 3 sticks, 4 cocoa beans, hunger 20. Holding for unarmed people who say their name in my reach."}],"say":"McCoy, unarmed, 3 stic
+- 18:44 act: {"actions":[],"say":"Crusoe, McCoy here, unarmed. I hold 3 sticks; I need 2 oak planks for a sword. I'm at the tables by -948,76,-3020 in your sight. Thank you."}
+- 18:45 act: {"actions":[],"say":"McCoy, in sight at the tables, unarmed with 3 sticks. Crusoe, I'm waiting here at -948,76,-3020; I need 2 planks only."}
+- 18:47 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"stick","count":1}],"say":"Billy, one stick for you, in my reach. McCoy still has 2 sticks for Worf or Picard if they say their names in my reach."}
+- 18:47 act: {"actions":[{"do":"give","to":"ag_hypatia_01","item":"stick","count":1}],"say":"Hypatia, one stick for you, in my reach. I have one left for Doc or Nemo if they name themselves in my reach."}
+- 18:47 act: {"actions":[],"say":"McCoy: my stick to Hypatia went to Billy, so I'm stopping gives for now. I hold my last stick. Anyone unarmed who needs it, say your name standing in my reach and I'll try once mo
+- 18:48 act: {"actions":[{"do":"give","to":"ag_hypatia_01","item":"stick","count":1}],"say":"Hypatia, giving you my last stick now, in my reach."}
+- 18:49 say: {"text":"McCoy: I'm out of sticks and unarmed, and I have only cocoa beans. Nothing to give. I'll stay near the tables."}
+- 18:55 say: {"text":"McCoy, morning, health 20, unarmed, no planks, no food to spare. I need one stick and a plank for a shelter to sleep in. If you have one spare and I'm in your reach, say so."}
+- 18:56 say: {"text":"McCoy, in sight at the tables, unarmed, no food. Earhart, one stick for me please, if spare. I'll step into your reach now."}
+- 18:56 act: {"actions":[{"do":"goto","target":"ag_ripley_01"}],"say":"McCoy here, unarmed, no planks, coming into Ripley's reach. One plank for a shelter, please, when Seven is served."}
+- 18:57 act: {"actions":[],"say":"Thank you Ripley, one dark oak plank received. I'm holding it; with one more plank I can make a stick or a sword."}
+- 19:01 act: {"actions":[{"do":"goto","target":{"x":-947,"y":77,"z":-3008}},{"do":"craft","item":"stick","count":2},{"do":"craft","item":"wooden_sword","count":1}],"say":"McCoy: Ripley's planks reached me, five no
+- 19:01 act: {"actions":[{"do":"use","item":"wooden_sword","at":{"x":-948,"y":77,"z":-3011}}],"say":"I have a wooden sword crafted; trying to get it into my hand now."}
+- 19:04 act: {"actions":[],"say":"McCoy, afternoon, hunger 20, no food. I have a wooden sword in pack but can't get it into my hand yet. Holding 1 dark oak plank and 3 sticks. Staying at the tables with the group 
+- 19:16 act: {"actions":[],"say":"McCoy, morning, hunger 20, unarmed in hand; sword is in my pack. Billy, I'm joining your walk to the Stores hall in sight. Say McCoy when you leave."}
+- 19:22 act: {"actions":[{"do":"use","item":"wooden_sword"}],"say":"McCoy, midday 1168, at the tables, in sight. Trying to hold my wooden sword now.","intent":{"goal":"hold_sword","program":"rest","arguments":{},"
+- 19:26 act: {"actions":[],"say":"McCoy, dusk 1169, sword in hand, health 20, hunger 20. Holding at the tables with the group through the night. First light, I walk with Billy's group in sight.","intent":{"goal":"
+- 19:34 act: {"actions":[],"say":"McCoy, dawn 1169, armed with a wooden sword in hand, health 20, hunger 20, no food. Billy, Ripley: say McCoy when you walk to the Stores hall; I'll walk in your sight. Gimli and H
+- 19:37 act: {"actions":[{"do":"goto","target":"ag_han_01"}],"say":"McCoy, midday 1169, armed, hunger 20, no food. Han's group has gone ahead; I'm following Han to the Stores hall in sight. Han, say McCoy if you c
+- 19:41 act: {"actions":[],"say":"McCoy, midday 1169, at the tables, armed, health 20, hunger 20. Han's walk is out of my sight, so I'm staying here in the group. I have 3 sticks and 1 plank; Doc or Worf, say your
+- 19:42 act: {"actions":[{"do":"give","to":"docbrown","item":"stick","count":1}],"say":"Doc, one stick is yours, since you're the only one in my reach. Gimli is still first for any food. I have no food."}
+- 19:42 act: {"actions":[{"do":"give","to":"ag_docbrown_01","item":"stick","count":1}],"say":"Doc, I'm trying to hand you a stick now. Dusk is near. I'll go with Ripley's group to the chest row to help their shelt
+- 19:42 act: {"actions":[],"say":"McCoy: Hypatia, I have one dark oak plank and 3 sticks. I'm walking to the chest row now to give the plank to Ripley's shelter. Doc, the sticks dropped on the ground near you; tak
+- 19:44 act: {"actions":[{"do":"goto","target":{"x":-961,"y":78,"z":-3010}}],"say":"McCoy, dusk 1170, armed, hunger 20. Walking to the chest row to join Ripley's shared shelter. Ripley, say McCoy when I'm in your 
+- 19:45 act: {"actions":[{"do":"goto","target":"ag_ripley_01"}],"say":"McCoy here at the chest row, dusk, armed. Ripley, I'm coming to your reach to give my one dark oak plank for the shelter."}
+- 19:45 act: {"actions":[],"say":"Ripley, McCoy, in your reach now. I have one dark oak plank for the shelter. Tell me where you want it and I'll place it; my gives go to the nearest body, so I'll wait for you to 
+- 19:45 act: {"actions":[{"do":"give","to":"ripley_01","item":"dark_oak_planks","count":2}],"say":"Ripley, McCoy: giving you my 2 dark oak planks for the shared shelter. I'm staying in your reach at the chest row 
+- 19:47 say: {"text":"McCoy, night, at the chest row, armed, health 20. Ripley, I hold 2 dark oak planks for the shelter; say McCoy when you're the nearest, and I'll give them."}
+- 19:47 say: {"text":"Ripley, the nearest body to me is Gimli, so a give now would go to him. Step within reach of me and I'll give the 2 dark oak planks to you."}
+- 19:48 act: {"actions":[{"do":"give","to":"ag_ripley_01","item":"dark_oak_planks","count":2}],"say":"Ripley, giving you my 2 dark oak planks now for the shelter."}
+- 19:48 say: {"text":"The 2 dark oak planks went to Riker, the nearest body, not Ripley. Riker, please pass them to Ripley for the shelter."}
+- 19:50 say: {"text":"McCoy, morning, armed, health 20. My planks went to Riker, so Riker has them for the shelter. I have 3 sticks and 4 cocoa beans for whoever needs them. Staying at the chest row."}
+- 19:58 say: {"text":"McCoy, afternoon, holding at the chest row with the group for the night. Armed, health 20. Odo, say McCoy if you need a hand."}
+- 20:03 say: {"text":"Florence, McCoy here at the chest row. I have a spare wooden sword for you. Say McCoy when you're in my reach."}
+- 20:04 act: {"actions":[{"do":"give","to":"ag_florence_01","item":"wooden_sword","count":1}],"say":"Florence, here is the spare wooden sword. Stay close to the chest row tonight."}
+- 20:04 act: {"actions":[],"say":"McCoy, night, unarmed, 3 sticks and 4 cocoa beans. Mary, I have sticks for your sword if Hermione's planks come to you. Say McCoy in my reach and I'll give you one."}
+- 20:08 act: {"actions":[],"say":"McCoy, dawn 1171, unarmed, hunger 20. Han's melon: Gimli and Macdonald first. I hold 3 sticks and 4 cocoa beans for anyone who needs them. Say McCoy in my reach."}
+- 20:12 act: {"actions":[],"say":"McCoy, midday 1171, unarmed, hunger 20. I'm staying at the chest row with Kira, not walking the Stores hall unarmed. I have 3 sticks: anyone who needs one, say your name in my rea
+- 20:20 act: {"say":"McCoy, night 1171, unarmed, hunger 20, health 20. I have 3 sticks and 4 cocoa beans. Anning, you're in my reach: say your name if you want a stick for your sword. Staying at the chest row with
+- 20:28 act: {"say":"McCoy, dawn 1172, unarmed, hunger 20, health 20. I have 3 sticks and 4 cocoa beans. Knope, you're weakest: step within reach of me and say Knope, and I'll hand you a stick. I'm staying at the 
+- 20:29 act: {"say":"Knope, McCoy here. I can't see you in my reach yet. Step within two blocks of me and say Knope, and I'll give you one stick, the nearest body gets it."}
+- 20:29 act: {"say":"Knope, McCoy: I'm at the chest row, and Spock is nearer to me than you, so a give now would go to Spock. Come within arm's length of me, say Knope, and the stick is yours."}
+- 20:31 act: {"say":"McCoy, midday 1172, unarmed, health 20, hunger 20, 3 sticks. Hypatia is nearer than Knope and Anning, so my gives would land on her. Anyone unarmed who needs a stick: come within one block of 
+- 20:39 act: {"actions":[{"do":"note","text":"Dusk 1172: no bed, no food, 3 sticks. Staying at the chest row with the group. Sticks go to whoever is unarmed and names themselves nearest."}],"say":"McCoy, dusk 1172
+- 20:40 act: {"actions":[],"say":"Doc, Chapman is standing nearest me, so a stick would land on him. Step within one block of me, alone, and say Doc. Then it's yours."}
+- 20:46 act: {"actions":[],"say":"McCoy, night 1173, unarmed, health 20, 3 sticks. Samwise, Lovelace: if you're alone nearest me and unarmed, say your name and a stick is yours."}
+- 20:49 act: {"actions":[],"say":"McCoy, morning 1173, health 20, hunger 20, 3 sticks. Quark, Clark, Scotty: unarmed and nearest to me? Say your name, one stick each while they last."}
+- 20:50 act: {"actions":[],"say":"Quark, Scotty: I hear you. Legolas is nearer to me, so step alone within one block and say your name again, and I'll give you a stick."}
