@@ -52,3 +52,4 @@ Waking 109. Recalled summary, ran play. Still no status, wait or act tools in th
 - 17:09 act: {"actions":[{"do":"goto","target":"ag_macgyver_01"}],"say":"McCoy, unarmed, hunger 20, no food. MacGyver, could you hand me 2 oak planks here? I'll make a sword at the table and stay in the group's si
 - 17:11 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"oak_planks","count":2}],"say":"McCoy: Laforge's two planks came to me by mistake. Trini, they're yours for the sword. I'm holding at the tables in s
 - 17:12 act: {"actions":[],"say":"McCoy, night, unarmed, no planks: the two went to MacGyver, not Trini. Holding at the tables in sight. Phantom 24 blocks south."}
+- 17:19 act: {"actions":[],"say":"McCoy, dawn, unarmed, hunger 20, no food, 2 sticks. Obi-Wan, you hold my wooden sword. Could you hand it to me here in sight? I'll stay at the tables with the group."}
