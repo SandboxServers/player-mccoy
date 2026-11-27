@@ -21,3 +21,4 @@ Waking 47: recalled summary and play skill. Checked tools: still no mcp__geldar_
 Waking 48: recalled summary and play skill. Checked tools again: no mcp__geldar__ game tools (no status, wait, act, say), and no worker errand is possible. Nothing moved, given or eaten. Holding still; last known health 20, hunger 20, no food.
 Waking 52: recalled summary and play skill. Still no mcp__geldar__ game tools in my session (no status, wait, act, say), so no wait or act. Nothing moved, given or eaten. Holding still; last known health 20, hunger 20, no food.
 Waking 51: recalled summary and journal. Tool list checked again: no mcp__geldar__ game tools, and no worker errand is possible. Nothing moved, given or eaten. Holding still; last known health 20, hunger 20, no food.
+- 15:13 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1023}}],"say":"Leonard here, night, hunger 20, no food to share. Trying the bed to the west, in sight of the group."}
