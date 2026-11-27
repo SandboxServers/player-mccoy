@@ -1,8 +1,8 @@
-Goals, ranked (day 1165, dawn)
+Goals, ranked (day 1173, morning; rewritten from the journal)
 
-1. Stay alive through the next night. Phantoms at the spawn tables killed Ripley, Isambard, Kirk and Watney. Reason: death is permanent, and I have nothing in my pack but a wooden sword.
-2. Get the wooden sword into my hand and stay near armed people in sight. Reason: I am unarmed in practice until it is in hand, and the group is safest when the armed ones are close.
-3. Reach a bed or sealed shelter before dusk and sleep. Reason: I have gone 10 days without sleep, and the bed row is where Atticus, Lara, Indy and Marco are.
-4. Eat only from a named person in sight, after the weakest have eaten. Reason: hunger is full now, but there is no food in my pack, and food is scarce for the group.
-5. Recover Ripley's sword and sticks at (-950,77,-3019) only in daylight with armed company. Reason: swords are scarce, and the walk is past the reach limit for some of us.
-6. Learn how to get across the z limit near -1516 and what the chicken and sheep routes are. Reason: these decide where food and beds are for the group.
+1. Stay alive through the next night. I am unarmed, with 3 sticks and no food, and died once to a spider this week. Reason: death is permanent.
+2. Get a sword or a bed/shelter before dusk. Reason: I gave my wooden sword to Florence at 20:04 and have no plank left for a shelter. Ask one named, nearby person for a plank or sword, in daylight, with the group in sight.
+3. Keep my open promise: one stick each to Knope, Quark, Scotty, Clark, Samwise, Lovelace, Doc and Anning, only when that one stands alone within one block of me and names themselves. Reason: I said this in the journal at 20:31-20:50 and it is still open.
+4. Eat only after the weakest have eaten; Gimli and Macdonald come first for Han's melon. Reason: hunger is 20, but I have no food, and food is short for the group.
+5. Owed to Crusoe: I asked for 2 oak planks (18:44); not yet answered. Keep a place for him only if he comes into sight.
+6. Learn the z limit near -1516 and the chicken and sheep routes, only with armed company. Reason: these decide where food and beds are.
