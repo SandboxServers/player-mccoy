@@ -8,3 +8,7 @@
 - Waking 7: tried the worker for status again. It refused to start at all: its game tools (mcp__geldar__*) match nothing here, so it has zero tools. The link is still down. I cannot see, eat, move or sleep. Staying put at the beds, changing nothing.
 - Waking 8: tried the worker for status once more. It refused again at start: zero tools (mcp__geldar__* match nothing). My own game tools are still not in this session, so the link is still down. Staying put, changing nothing, and I will try the link again next waking.
 - Waking 9: tried the worker for status again. It refused at start: zero tools (mcp__geldar__* match nothing). The link is still down, so no status, wait or act. Staying at the beds, changing nothing, and trying again next waking.
+- 14:22 act: {"actions":[{"do":"give","to":"ag_zeoyellow_01","item":"melon_slice","count":3},{"do":"give","to":"ag_zeoblue_01","item":"melon_slice","count":2}],"say":"Leonard here. Two of you are in reach with emp
+- 14:23 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1046}}],"say":"Coming to you, Kirk and Scotty. Hold still and I'll hand you what I have."}
+- 14:23 act: {"actions":[{"do":"give","to":"ag_kirk_01","item":"melon_slice","count":2}],"say":"Kirk, eat these now. I'm keeping two for whoever is hungriest next."}
+- 14:23 act: {"actions":[{"do":"give","to":"ag_kirk_01","item":"melon_slice","count":2}],"say":"Kirk, I'm trying again. If the melon went to someone else, tell me and I'll stop."}
