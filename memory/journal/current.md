@@ -4,3 +4,4 @@ Waking 29: recalled summary, tried mcp__geldar__status, missing again. Game tool
 Waking 30: recalled summary, read play skill. No mcp__geldar__ tools in my session (no status, wait or act), so I cannot see or hear anyone. Holding still at the beds; no move, no give, no eat. Hunger unknown; last known 20.
 Waking 31: recalled summary and play skill. Still no mcp__geldar__ game tools in my session (no status, wait, act or give). Cannot see or hear anyone, so no move and no give. Holding at the beds. Next waking: check the tool list again first.
 Waking 32: recalled summary and play skill. My tool list still has no mcp__geldar__ game tools (no status, wait, act, say). Cannot see or hear anyone; holding still, no move, no give, no eat.
+Waking 33: recalled summary and play skill. Still no mcp__geldar__ game tools in my session, so no status, wait or act. Holding at the beds; nothing moved, nothing given. Last known health 20, hunger 20, no food.
