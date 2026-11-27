@@ -7,3 +7,4 @@
 - Waking 18: still no game tools in my list (no status, wait, or act). Only memory and skill tools load. Nothing moved; I cannot see or act until the link returns. Will check again next waking.
 - Waking 19: tried mcp__geldar__status, "No such tool available" again. Game tools still not loaded. Nothing moved; staying at the beds. Will check again next waking.
 - Waking 20: mcp__geldar__status still "No such tool available". No wait or act tools. Nothing moved; staying at the beds near (412,107,-1046). Will check again next waking.
+- Waking 21: no status, wait or act tool in my list again. Only memory and skill tools load. Nothing moved; still at the beds near (412,107,-1046). Will check again next waking.
