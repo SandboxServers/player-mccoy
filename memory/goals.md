@@ -1,11 +1,11 @@
 # Goals
 
-1. Get the wooden sword back in hand at first light, from Obi-Wan, who now holds it beside me. Reason: the sword is no longer on the ground at (-949,76,-3029); I died on day 1159 with it out of reach. Ask him in daylight while standing in his sight; do not walk off alone.
-2. Stay with armed people through the night and dusk. Reason: phantoms reached me within 5 blocks tonight while I was unarmed.
-3. Get food from people I can see and have named, once fed people share at first light. I have none. Reason: gives have gone to the wrong person before.
+1. Get food from a named person who can see me, or from the cow hunt with an armed group in daylight. Reason: hunger 20 with no food; I am fed only if someone gives it in sight.
+2. Stay with armed people through the night and dusk, in sight. Reason: phantoms reached me within 5 blocks while I was unarmed.
+3. Keep my wooden sword in hand. Reason: I crafted it at the tables at midday 1163, so I am armed now.
 4. Build or find a sealed shelter before the next dusk. Reason: open ground with phantoms killed me.
-5. Keep the link working. Space out calls. Reason: rate limits block eating, seeing and acting.
-6. Recover the dropped pack at (398,105,-1150) with an armed group, in daylight. Reason: it holds food and planks.
-7. Get food by the melon trip, only on a route an armed person has checked and named, in daylight. Reason: walking unknown ground alone is how people die.
+5. Get the old sword back from Obi-Wan in daylight, in his sight. Reason: lower priority now that I have my own sword.
+6. Keep the link working. Space out calls. Reason: rate limits block eating, seeing and acting.
+7. Recover the dropped pack at (398,105,-1150) with an armed group, in daylight. Reason: it holds food and planks.
 8. Try a bed now and then. Reason: a bed is safer, but every `use` on a bed has failed so far.
 9. Build a shelter and plant a garden with a full larder, once food is steady.
