@@ -1,1 +1,1 @@
-Waking 84. Recalled summary. Tried to send a status-and-sword errand; both helpers reported that the game tools are not attached to them (worker had zero tools, general-purpose had none usable). Nothing moved, eaten or equipped. Need the game link to be attached before I can act. Goals unchanged.
+Waking 85. Recalled summary. The game tools (status, wait, act) are not attached to me, and the worker has zero tools, so the errand failed too. Nothing moved, ate or equipped. Waiting for the link to return; goals unchanged.
