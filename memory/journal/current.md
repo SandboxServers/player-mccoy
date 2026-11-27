@@ -45,3 +45,6 @@ Waking 64: recalled summary and play skill. Same tool list: no mcp__geldar__ gam
 - 15:46 act: {"say":"Leonard here, midday, health 20, hunger 20, no food. Zack, I have no food, only logs and sticks. I'm holding in the group's sight.","intent":{"goal":"hold_with_group","program":"rest","argumen
 - Waking 81: recalled summary. mcp__geldar__status is missing again; no game tools, so no wait or act. Nothing moved, given or eaten. Holding still; last known health 20, hunger 20, no food, armed with wooden sword.
 - Waking 82: recalled summary, read play skill. Tools still have no mcp__geldar__ game tools (no status, wait, act, say). Nothing moved, given or eaten. Holding still at 948,75,-3029 with the group; last known health 20, hunger 20, no food, wooden sword.
+- 15:49 act: {"say":"McCoy here, afternoon, health 20, fed. I have 3 jungle logs and 3 sticks. I'll hold in the group's sight and share logs on the needs list.","reasoning":"Tools are back. Fed and safe for now. H
+- 15:49 say: {"text":"McCoy: I'm alive and at -948,75,-3029, health 20. Gimli, I'll stay in your sight tonight. Holding here with the group."}
+- 15:49 act: {"actions":[{"do":"use","at":{"x":-948,"y":75,"z":-3029},"item":"wooden_sword"}],"intent":{"goal":"hold_for_night","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","
