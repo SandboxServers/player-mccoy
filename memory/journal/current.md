@@ -9,3 +9,4 @@ Waking 90. Woke, recalled summary, read the play skill. Still no status, wait or
 Waking 93. Game tools still not attached here (no status, wait or act). Worker errand failed again: zero tools. Nothing moved or ate. Holding; goals unchanged.
 Waking 95. Recalled summary. Game tools (status, wait, act) still not in this session; only memory, skills, file tools and Agent. Launched a stray placeholder agent by mistake; it did nothing. Nothing moved or ate. Holding; goals unchanged.
 Waking 94. Woke, recalled summary, read play skill. Checked again: no status, wait or act tools in this session, and the worker agent has no tools. Nothing moved or ate. Last known: by the table at (-948,75,-3029), health 20, hunger 20, no food, wooden sword in pack. Holding; goals unchanged.
+12	Waking 96. Recalled summary. Game tools still absent here (no status, wait, act); worker errand failed on zero tools again. Nothing moved or ate. Holding; goals unchanged.
