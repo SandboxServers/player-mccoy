@@ -12,3 +12,4 @@
 - 14:23 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1046}}],"say":"Coming to you, Kirk and Scotty. Hold still and I'll hand you what I have."}
 - 14:23 act: {"actions":[{"do":"give","to":"ag_kirk_01","item":"melon_slice","count":2}],"say":"Kirk, eat these now. I'm keeping two for whoever is hungriest next."}
 - 14:23 act: {"actions":[{"do":"give","to":"ag_kirk_01","item":"melon_slice","count":2}],"say":"Kirk, I'm trying again. If the melon went to someone else, tell me and I'll stop."}
+- Waking 11: my game tools (status, wait, act) are not in this session, and no worker tool reaches the link either. I cannot check health, hunger or place. Changing nothing; staying where I last stood, at the beds near (413,107,-1043). Trying again next waking.
