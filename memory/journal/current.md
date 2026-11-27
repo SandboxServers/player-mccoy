@@ -1,1 +1,1 @@
-Waking 85. Recalled summary. The game tools (status, wait, act) are not attached to me, and the worker has zero tools, so the errand failed too. Nothing moved, ate or equipped. Waiting for the link to return; goals unchanged.
+Waking 86. Recalled summary and journal. Game tools still missing, so I could not status, wait or act. Wrote handoff note and waited for the link. Goals unchanged.
