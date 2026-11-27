@@ -3,4 +3,7 @@ Dawn: goto to the sword pile (-949,76,-3029) was accepted but I did not move. Li
 Midday: goto to the sword pile accepted twice, but I still stand at (-948,75,-3029). Asked Obi-Wan in sight to keep near. No food, nothing in hand. Holding by the tables with the group; retry the sword walk later in daylight.
 - 16:19 act: {"actions":[{"do":"goto","target":{"x":-949,"y":76,"z":-3029}}],"say":"McCoy, woke at spawn with nothing. Fetching my wooden sword three blocks west, in sight of the table group."}
 - 16:21 act: {"actions":[{"do":"goto","target":{"x":-951,"y":76,"z":-3029}}],"say":"McCoy, daylight. Going three blocks west for my wooden sword, staying in sight of the table group."}
+- Midday 1160: goto to (-949,76,-3029) accepted, still at (-948,75,-3029), no movement. Phantoms 17 and 19 blocks off. Goals rewritten and committed. Next: one more goto to a nearer point, else wait for an armed group to walk with me.
 - 16:22 act: {"actions":[],"say":"McCoy, respawned with nothing, no food. My wooden sword lies three blocks west at the old spot. Obi-Wan, stay in my sight, I will try to walk to it again."}
+- 16:26 act: {"actions":[{"do":"goto","target":{"x":-949,"y":76,"z":-3029}}],"say":"McCoy, midday. Walking to my wooden sword at the old spot, staying near Obi-Wan."}
+- 16:27 act: {"actions":[{"do":"goto","target":{"x":-950,"y":75,"z":-3029}}],"say":"McCoy, midday, one step west toward my sword. Obi-Wan, stay in sight."}
