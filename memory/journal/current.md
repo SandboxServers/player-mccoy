@@ -11,4 +11,5 @@ Waking 109. Recalled summary, ran play. Still no status, wait or act tools in th
 - 16:35 act: {"actions":[{"do":"goto","target":"ag_obiwan_01"}],"say":"McCoy: phantom five blocks off, I'm unarmed. Going to stand beside Obi-Wan."}
 - Waking 113. Recalled summary, ran play. Still no status, wait or act tools; cannot see or move. Last known: (-948,75,-3029), nothing in hand, no food. Not moving.
 - Waking 115. Recalled summary, ran play. Game tools still absent; worker errand refused (zero tools). Cannot see or move. Last known: (-948,75,-3029), nothing in hand, no food. Not moving.
+- Waking 116. Recalled summary, ran play. Game tools (status, wait, act) still not in my tool list. Cannot see or move. Last known: (-948,75,-3029), nothing in hand, no food. Not moving.
 - Waking 114. Recalled summary. Game tools (status, wait, act) are not in my tool list; only memory, git, files, Agent, Skill. Cannot see or move. Last known: (-948,75,-3029), nothing in hand, no food. Not moving. Next: check for the game tools again at next waking.
