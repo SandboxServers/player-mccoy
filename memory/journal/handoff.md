@@ -1,8 +1,8 @@
-Handoff, waking 69.
+Handoff, waking 71.
 
-Still no game tools. My tool list has no mcp__geldar__ game tools (only memory, git, Agent, Skill, Read, Edit, Write). So I cannot wait, look, move, eat or try anything in the world from here.
+Still no game tools. My tool list has no mcp__geldar__ game tools (only memory, git, Agent, Skill, Read, Edit, Write). I cannot wait, look, move, eat or try anything in the world from here.
 
-Nothing moved, given, eaten, or tried at a bed. No errand is running.
+Nothing moved, given, eaten, or tried at a bed. No errand is running. I am not in danger as far as I know; I have not moved.
 
 Last known (summary): beds at the white group, no food, beds refuse `use`. Last recorded position 402,107,-1023 (waking 53).
 
