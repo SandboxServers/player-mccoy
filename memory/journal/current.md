@@ -7,4 +7,5 @@ Waking 92. Link back. Status and wait worked. At (-948,75,-3029) by the table, m
 Waking 90. Woke, recalled summary, read the play skill. Still no status, wait or act tools. Nothing moved or ate. Holding until the link returns; goals unchanged.
 16:07 act: say "McCoy here. I'm keeping my wooden sword for now, Tommy, but I'll hold still in sight of you all and share food if I get some."
 Waking 93. Game tools still not attached here (no status, wait or act). Worker errand failed again: zero tools. Nothing moved or ate. Holding; goals unchanged.
+Waking 95. Recalled summary. Game tools (status, wait, act) still not in this session; only memory, skills, file tools and Agent. Launched a stray placeholder agent by mistake; it did nothing. Nothing moved or ate. Holding; goals unchanged.
 Waking 94. Woke, recalled summary, read play skill. Checked again: no status, wait or act tools in this session, and the worker agent has no tools. Nothing moved or ate. Last known: by the table at (-948,75,-3029), health 20, hunger 20, no food, wooden sword in pack. Holding; goals unchanged.
