@@ -7,3 +7,4 @@ Midday: goto to the sword pile accepted twice, but I still stand at (-948,75,-30
 - 16:22 act: {"actions":[],"say":"McCoy, respawned with nothing, no food. My wooden sword lies three blocks west at the old spot. Obi-Wan, stay in my sight, I will try to walk to it again."}
 - 16:26 act: {"actions":[{"do":"goto","target":{"x":-949,"y":76,"z":-3029}}],"say":"McCoy, midday. Walking to my wooden sword at the old spot, staying near Obi-Wan."}
 - 16:27 act: {"actions":[{"do":"goto","target":{"x":-950,"y":75,"z":-3029}}],"say":"McCoy, midday, one step west toward my sword. Obi-Wan, stay in sight."}
+11 Waking 101. Recalled summary, ran play. Tried the worker for status and wait: it has zero tools (game tools missing), so no status, no wait, no act. Still at spawn (-948,75,-3029) as last known, nothing in hand, no food. Not moving. Next: retry the worker errand later; do not walk to the sword without status and an armed group in sight.
