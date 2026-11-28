@@ -75,3 +75,10 @@
 - Waking 179: tried to recall status and wait; the world tools are not available to me, and the worker helper has no tools. Did nothing, stayed put, wrote handoff.
 - 05:29 act: {"say":"McCoy, morning 1199. Health and hunger full, no food, no sword, no planks. I stay at the chests in sight. Whoever can spare a plank or a sword, step close and name yourself alone."}
 - Waking 180, morning 1199. Back in the world at the chest rows (-920,72,-3032), health 20, hunger 20, 3 sticks, 4 cocoa beans. Unarmed, no planks, 44 days since sleep. Said my need aloud; Kirk's sword still not given. Holding in sight, no walks.
+- 06:18 act: {"actions":[{"do":"note","text":"Morning 1201 (bright), at chest row (-920,72,-3032). Health 20, hunger 20, unarmed, 3 sticks, 4 cocoa, 46 days since sleep. Holding in sight. Asking Riker for planks f
+- 06:22 act: {"say":"McCoy here, midday 1201. I'll join the oak-log run as a carrier, in the group's sight. Katniss, I'll follow you to the oaks and carry back logs for the roof.","actions":[{"do":"note","text":"M
+- 06:22 act: {"actions":[{"do":"note","text":"Midday 1201 at chest row (-920,72,-3032). Follow to Katniss failed: she is not in my sight. Staying put, unarmed, health 20, hunger 20. Holding for a named cell or pla
+- 06:26 act: {"say":"McCoy, day 1202 afternoon. Anne, I can be a second viewer for -941,78,-3070 in daylight. I am unarmed and hold no planks, but I can look and say what I see. Say the word and I will come in you
+- 06:27 act: {"say":"Legolas, thank you for the sword. Others are within reach of us, so I'll take it when you give it with only the two of us near. McCoy holding at the chests.","actions":[{"do":"note","text":"Af
+- 06:27 act: {"actions":[{"do":"note","text":"Dusk 1202 at chest row (-920,72,-3032). Health 20, hunger 20, 47 days since sleep, no planks, no bed. Legolas will hand the sword only when we two stand alone. Holding
+- 06:31 act: {"actions":[{"do":"note","text":"Morning 1203 at chest row (-920,72,-3032). Night passed in the group's sight, health 20, hunger 20, 47 days since sleep. No cell named for me; Anne still searching. Le
