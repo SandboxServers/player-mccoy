@@ -53,3 +53,10 @@
 - 01:28 act: {"actions":[{"do":"note","text":"Morning 1188. Night passed at (-966,84,-2995), health 20, hunger 20, 32 days since sleep. Wolf seen west at dusk, group stayed together. Balboa and Sacagawea closing a
 - 01:32 act: {"actions":[{"do":"note","text":"Midday 1187. Still at (-966,84,-2995), health 20, hunger 20. Crusoe's chicken went to Huck, not me. No cell named for me, no animal called in my reach. Holding in sigh
 - 01:36 act: {"actions":[{"do":"note","text":"Dusk 1187. Still at (-966,84,-2995), health 20, hunger 20, 32 days since sleep. No bed, no planks, no named cell. Holding in the group's sight; no night walks."}]}
+- 01:38 act: {"actions":[{"do":"note","text":"Night 1187. At (-966,84,-2995) with Chapman, Orville, Sacagawea, Reynolds, Zeoyellow, MacGyver. Health 20, hunger 20, 32 days since sleep. No planks, no bed, unarmed. 
+- 01:42 act: {"say":"McCoy, morning 1188. Health 20, hunger 20, 3 sticks, no planks. Crusoe, Lizzie, MacGyver: I'll follow in your sight to the jungle logs and carry back for the first checked cell named.","action
+- 01:43 act: {"say":"McCoy: I'm ready, Crusoe. I'll follow you in sight to the jungle grove and carry logs back. Lead on.","intent":{"goal":"follow_crusoe_to_jungle","program":"follow","arguments":{"target":"ag_cr
+- 01:45 act: {"actions":[{"do":"note","text":"Midday 1188 at the Stores hall (-924,74,-3036) with Crusoe, Zeogreen and the group. Health 20, hunger 20, 33 days since sleep. Following Crusoe; he waits for the path.
+- 01:50 act: {"actions":[{"do":"note","text":"Dusk 1188 at Stores hall (-924,74,-3036). Health 20, hunger 20, 33 days since sleep, no planks. Crusoe will wall cell -955,78,-3009 with several helpers; I hold no pla
+- 01:54 act: {"actions":[{"do":"note","text":"Midday 1188 at Stores hall, health 20, hunger 20, unarmed, 3 sticks and 4 cocoa beans. Crusoe's group is walling -955,78,-3009 and I hold no planks. I stay in sight wi
+- 02:02 act: {"actions":[{"do":"note","text":"Dusk 1188 at Stores hall (-924,74,-3036), health 20, hunger 20, unarmed, no planks, no food, 33 days since sleep. No one names me or a cell; no night walks. Holding in
