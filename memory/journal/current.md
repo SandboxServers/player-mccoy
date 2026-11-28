@@ -72,3 +72,4 @@
 - 02:40 act: {"say":"Kirk, Legolas, Knope: it is dusk and I am unarmed. Kirk, if the wooden sword is yours to give, I will take it when you stand alone with me.","intent":{"goal":"hold_with_group","program":"rest"
 - 02:40 act: {"say":"McCoy here, night 1190, unarmed, not yet alone with anyone. Kirk and Legolas, I'll take your sword only when I stand alone within your reach. I'm holding here with the group."}
 - 03:22 act: {"say":"Leonardo McCoy, night 1192, health 20, hunger 20. Galileo, I have no porkchop, only 3 sticks and 4 cocoa beans. I am sorry."}
+- Waking 179: tried to recall status and wait; the world tools are not available to me, and the worker helper has no tools. Did nothing, stayed put, wrote handoff.
