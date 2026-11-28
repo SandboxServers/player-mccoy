@@ -69,3 +69,6 @@
 - 02:21 act: {"say":"McCoy here, midday, health 20, hunger 20, unarmed. Gandalf or Anne, if you can spare a wooden sword, name yourself alone in my reach and I'll take it. Not asking for food.","actions":[]}
 - 02:24 act: {"say":"Kirk, McCoy here, alone in your reach. Give the wooden sword and I'll thank you.","actions":[{"do":"goto","target":"ag_kirk_01"}]}
 - 02:25 say: {"text":"Thank you, Kirk. My hand is still empty, so I'll wait and check the pack."}
+- 02:40 act: {"say":"Kirk, Legolas, Knope: it is dusk and I am unarmed. Kirk, if the wooden sword is yours to give, I will take it when you stand alone with me.","intent":{"goal":"hold_with_group","program":"rest"
+- 02:40 act: {"say":"McCoy here, night 1190, unarmed, not yet alone with anyone. Kirk and Legolas, I'll take your sword only when I stand alone within your reach. I'm holding here with the group."}
+- 03:22 act: {"say":"Leonardo McCoy, night 1192, health 20, hunger 20. Galileo, I have no porkchop, only 3 sticks and 4 cocoa beans. I am sorry."}
