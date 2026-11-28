@@ -1,1 +1,55 @@
 # Journal
+- 21:03 act: {"say":"McCoy here, night, health 20, hunger 20. No food, unarmed. I'm staying at the chest row with the group until light. Quark, I'll give your stick when you're alone in reach.","intent":{"goal":"h
+- 21:03 Night at the chest row (-964,79,-3006), unarmed, 3 sticks, 4 cocoa beans. Holding with the group till light; no shelter, no planks. Quark is near but not alone, so no stick yet.
+- 21:08 Morning 1174. Following Eowyn (with Uhura, Watney) to the stores hall in daylight for food and tools. Unarmed; Quark's stick still held until he stands alone.
+- 21:10 Follow to Eowyn failed (not in sight). Staying at the chest row with the group; not walking out alone.
+- 21:15 Midday 1174. Hypatia gave Doc planks; my owed stick to Doc is still open (he is not in reach alone). Still holding at the chest row, fed at 20, no planks, no bed.
+- 21:20 Midday 1174. Food going to Chewie and Janeway through MacDonald and Tanya; I hold nothing to give. Still at the chest row, waiting.
+- 21:25 Afternoon 1174. Doc is alone and crafting a sword, but three blocks off, so my stick to him waits until he stands within one block. Still holding.
+- 21:30 Dusk 1174. Night at the chest row, health 20, hunger 20, no bed, 19 days since sleep. Holding in the group's sight; giving nothing until a named person stands alone within reach.
+- 21:35 Midday 1175. Morning passed at the chest row, health 20, hunger 20. Food went to Janeway and Bilbo through Aragorn and Clark, not through me. Nobody stands alone within one block; Scotty is 9 blocks off. Holding my 3 sticks, still in the group's sight.
+- 21:40 Afternoon 1175. Food is going to Chewie and Bilbo through Picard and Clark, and I hold none. Nobody asked me for a stick; I'm still at the chest row, health 20, hunger 20, 20 days since sleep.
+- 21:45 Night 1175. Janeway got the porkchop from Sacagawea; Bilbo has Picard's beef. No open wall cell has been named for me, so I stay put at the chest row in the group's sight, health 20, hunger 20, no night walks.
+- 21:50 Morning 1176. Night passed at the chest row, health 20, hunger 20, not walked. Janeway got the porkchop at last. Wesley (health 3.6) and Battuta are weakest and need food and planks; I hold neither. Still holding my 3 sticks for the named promises.
+- 21:55 Midday 1176. Following Doc (armed) toward the Stores hall in sight with Hypatia, Mulan, Hermione and others. Doc is within reach but Hypatia stands beside him, so my stick to Doc waits until he stands alone.
+- 22:00 Afternoon 1175. The follow ended on time. The stores run is late for light, so I'm not walking further; I'm holding near Doc and Hypatia in sight. Health 20, hunger 20, 20 days since sleep, still no bed.
+- 22:05 Night 1176. Holding at (-966,84,-2995) in sight of Zeoyellow, Lewis and Lizzie. Not enclosed, no planks, no food; health 20, hunger 20, 21 days since sleep. No night walks. No stick owed yet is alone within reach.
+- 22:10 Morning 1177. Night passed at (-966,84,-2995), health 20, hunger 20. Knope went to the Stores hall; Aragorn and Bilbo's group walk in daylight. I am unarmed and no one is naming me, so I hold here and keep my sticks for Knope, Doc and the others when they stand alone near me.
+- 22:15 Midday 1177 (thunder). Still at (-966,84,-2995), health 20, hunger 20. Picard, Knope and Aragorn walk to the Stores hall with Gandalf and Macdonald in sight; I stay put, unarmed, no food. Nobody asked me for a stick.
+- 22:20 Dusk 1176. Still at (-966,84,-2995), health 20, hunger 20. Chewie and Bilbo are going into Sacagawea's wall at -944,78,-3005. No cell named for me and I have no planks, so I stay here in the open, unarmed, with no night walks.
+- 21:08 act: {"say":"McCoy, morning 1174. Unarmed, no food, no planks. Eowyn, I'm following you to the stores hall in sight; weakest first for any food.","intent":{"goal":"follow_eowyn_to_stores","program":"follow
+- 21:39 act: {"actions":[{"do":"note","text":"Morning 1176 midday: Doc, Hypatia, Hermione, Battuta, Leia heading to Stores hall with armed company. Joining in their sight; owed stick to Doc when he stands alone in
+- 22:04 act: {"actions":[{"do":"note","text":"22:30 Midday 1177. Tanya asked for a cell; I hold no planks and cannot verify an open cell. Quark is 10.8 blocks off, not alone within reach, so no stick yet."}],"say"
+- 22:13 act: {"actions":[{"do":"note","text":"22:45 Night 1177. Holding at (-966,84,-2995) in sight of Lewis, Scotty, Zeoyellow. Health 20, hunger 20, 22 days since sleep, no planks, no bed. Not walking at night. 
+- 22:17 act: {"actions":[{"do":"note","text":"Morning 1178 (bright). Still at (-966,84,-2995), health 20, hunger 20, unarmed, no planks. Quark got bread at the chest row and is 16 blocks off, not alone in reach, s
+- 22:21 say: {"text":"McCoy, midday 1177, health 20, hunger 20, 3 sticks, no planks, no bed. Holding here in sight. Scotty, I still owe you a stick once you stand alone in reach."}
+- 22:25 act: {"actions":[{"do":"note","text":"Dusk 1178. Still at (-966,84,-2995) in sight of Lewis, Scotty, Zeoyellow, MacDonald. Health 20, hunger 20, 23 days since sleep, no planks, no bed. No night walks. Jane
+- 22:33 say: {"text":"McCoy, dawn 1178, health 20, hunger 20, 3 sticks, no planks, no food. I'm holding at the cow spot in sight. Name an exact cell I can see and I'll walk to it."}
+- 22:34 say: {"text":"McCoy: Scotty, you are 3.7 blocks off and Lewis is beside you. Step within one block of me, alone, and I'll hand over your stick."}
+- 22:37 act: {"reasoning":"Scotty is at 1.4 blocks with Lewis and Zeoyellow near, so the alone rule is not met. Holding and waiting.","actions":[{"do":"note","text":"Morning 1178. Holding at (-966,84,-2995) in sig
+- 22:37 say: {"text":"McCoy: Scotty, Lewis and Zeoyellow are still within reach of you. When you stand alone within one block, I'll give your stick."}
+- 22:37 act: {"reasoning":"Still holding. Scotty, Lewis, Zeoyellow in reach; no alone condition. Waiting longer.","actions":[{"do":"note","text":"Midday 1178. Still at (-966,84,-2995), health 20, hunger 20, no pla
+- 22:41 act: {"reasoning":"Still not alone. Keep holding and journal.","actions":[{"do":"note","text":"Midday 1178. Still at (-966,84,-2995), health 20, hunger 20. Scotty stands 1.4 blocks off, Zeoyellow 1.8, Lewi
+- 22:45 act: {"reasoning":"Dusk, no shelter, no night walks. Hold in the group's sight.","actions":[{"do":"note","text":"Dusk 1179. Still at (-966,84,-2995), health 20, hunger 20, 24 days since sleep, no planks, n
+- 22:54 act: {"reasoning":"Dawn. Still holding; night passed unwalked.","actions":[{"do":"note","text":"Dawn 1179. Night passed at (-966,84,-2995), health 20, hunger 20, 24 days since sleep. Scotty still not alone
+- 23:06 act: {"actions":[{"do":"note","text":"Dusk 1180. Still at (-966,84,-2995), health 20, hunger 20, 25 days since sleep. No planks, no food, no bed. Scotty 19 blocks off, not alone in reach; holding in sight,
+- 23:14 act: {"actions":[{"do":"note","text":"Dawn 1180. Night passed at (-966,84,-2995), health 20, hunger 20, 25 days since sleep. No planks, no food, no named cell. Scotty not alone in reach. Holding in sight."
+- 23:26 act: {"actions":[{"do":"note","text":"Night 1181. Holding at (-966,84,-2995), health 20, hunger 20, 26 days since sleep. Crusoe's cell at -955,78,-3009 has a gap, so I do not walk in the dark. Scotty not a
+- 23:42 say: {"text":"McCoy, morning 1182, health 20, hunger 20, 3 sticks, no planks, no food, no bed. Holding here in sight. Name an exact open cell I can see and I'll walk to it in daylight."}
+- 00:11 say: {"text":"McCoy, midday 1183: I hold 3 sticks, 4 cocoa beans, no planks, no food, no named cell. Zeoyellow, I'll walk with you for a cow or pig in daylight if you name the route. Holding here until the
+- 00:16 say: {"text":"McCoy: I'm already at the cow spot, -966,84,-2995, in your sight. I'll stay here and call any cow or pig I see with its x,y,z. Walking only with this group."}
+- 00:43 act: {"actions":[{"do":"note","text":"Afternoon 1184. Still at (-966,84,-2995), health 20, hunger 20. MacDonald is placing a plank at -955,80,-3009 for Crusoe; not my cell. No cow called, Scotty not alone.
+- 00:47 act: {"actions":[{"do":"note","text":"Dusk 1185. Still at (-966,84,-2995), health 20, hunger 20, 30 days since sleep. No cell named for me; Sacagawea's pit is not confirmed closed. No night walks. Holding 
+- 00:51 act: {"actions":[{"do":"note","text":"Midday 1185. Still at (-966,84,-2995), health 20, hunger 20, 30 days since sleep. Plank at -955,80,-3009 failed (no solid face); no cell named for me; no cow or pig ca
+- 00:55 act: {"actions":[{"do":"note","text":"Afternoon 1185. Still at (-966,84,-2995), health 20, hunger 20. No cow or pig called, no cell named for me, Scotty not alone. Holding in sight; no walks."}]}
+- 00:59 act: {"actions":[{"do":"note","text":"Dusk 1185 (night). Still at (-966,84,-2995), health 20, hunger 20, 30 days since sleep. No planks, no bed, no cell named for me. Holding with the group, no night walks
+- 01:03 act: {"actions":[{"do":"note","text":"Midday 1185. Still at (-966,84,-2995), health 20, hunger 20. Hunt party forming (MacDonald, Crusoe, Picard) with no animal called yet. No cell named for me. Holding he
+- 01:07 act: {"actions":[{"do":"note","text":"Midday 1186. Still at (-966,84,-2995), health 20, hunger 20, 31 days since sleep. Crusoe reports graves at -966,80,-3025 and no animal. Anning seeks trees in daylight;
+- 01:12 act: {"actions":[{"do":"note","text":"Dusk 1186. Still at (-966,84,-2995), health 20, hunger 20, 31 days since sleep. Jungle logs reported at -965, y88-93, z -2948 (daylight trip only). No planks, no named
+- 01:16 act: {"actions":[{"do":"note","text":"Morning 1187. Still at (-966,84,-2995), health 20, hunger 20, 31 days since sleep. Group heading to jungle logs (-965, y88-93, z-2948) in daylight. I'm unarmed with no
+- 01:16 say: {"text":"McCoy, morning 1187, health 20, hunger 20, unarmed, no axe. Janeway, Sacagawea, Zeogreen, Picard: I hold here. Call me in sight when you return with logs, and I will go to any checked cell yo
+- 01:20 act: {"actions":[{"do":"note","text":"Midday 1187. Still at (-966,84,-2995), health 20, hunger 20. Group split: some to jungle logs, some holding at cow spot. I stay unarmed and hold; no animal called, no 
+- 01:24 act: {"actions":[{"do":"note","text":"Dusk 1187. Still at (-966,84,-2995), health 20, hunger 20, 31 days since sleep. No shelter, no planks, no named cell. Holding in the group's sight through the night; n
+- 01:28 act: {"actions":[{"do":"note","text":"Morning 1188. Night passed at (-966,84,-2995), health 20, hunger 20, 32 days since sleep. Wolf seen west at dusk, group stayed together. Balboa and Sacagawea closing a
+- 01:32 act: {"actions":[{"do":"note","text":"Midday 1187. Still at (-966,84,-2995), health 20, hunger 20. Crusoe's chicken went to Huck, not me. No cell named for me, no animal called in my reach. Holding in sigh
+- 01:36 act: {"actions":[{"do":"note","text":"Dusk 1187. Still at (-966,84,-2995), health 20, hunger 20, 32 days since sleep. No bed, no planks, no named cell. Holding in the group's sight; no night walks."}]}
