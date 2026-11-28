@@ -60,3 +60,9 @@
 - 01:50 act: {"actions":[{"do":"note","text":"Dusk 1188 at Stores hall (-924,74,-3036). Health 20, hunger 20, 33 days since sleep, no planks. Crusoe will wall cell -955,78,-3009 with several helpers; I hold no pla
 - 01:54 act: {"actions":[{"do":"note","text":"Midday 1188 at Stores hall, health 20, hunger 20, unarmed, 3 sticks and 4 cocoa beans. Crusoe's group is walling -955,78,-3009 and I hold no planks. I stay in sight wi
 - 02:02 act: {"actions":[{"do":"note","text":"Dusk 1188 at Stores hall (-924,74,-3036), health 20, hunger 20, unarmed, no planks, no food, 33 days since sleep. No one names me or a cell; no night walks. Holding in
+- 02:03 act: {"actions":[{"do":"note","text":"Night, dim, clear. Unarmed, 3 sticks, 4 cocoa. No planks, no bed. Staying with the group near the chest row."}],"say":"Night's come down on us and I've no sword and no
+- 02:04 act: {"actions":[{"do":"note","text":"Morning 1188, at Stores hall (-924,74,-3036), health 20, hunger 20, 3 sticks, no planks. Riker has no spare plank for me. Holding in sight with Zeogreen."}]}
+- 02:08 act: {"actions":[{"do":"note","text":"Midday 1189, at Stores hall (-924,74,-3036), health 20, hunger 20, 34 days since sleep. No planks, no cell named for me. Holding in sight with Zeogreen; Leia and Samwi
+- 02:16 act: {"actions":[{"do":"note","text":"Dusk 1189 (night), at Stores hall (-924,74,-3036), health 20, hunger 20, 34 days since sleep. No planks, no bed, unarmed. Holding in sight of Zeogreen; no night walks.
+- 02:20 act: {"actions":[],"say":"McCoy here, midday 1189, still at the chests with 3 sticks and 4 cocoa beans. Nobody has named a wall cell for me yet. Scotty, when you stand alone and name yourself next to me, I
+- 02:21 act: {"actions":[{"do":"note","text":"Midday 1189 at the chests. Scotty spoke: alone at -909,71,-3032, far from me, so no stick give yet. Still holding 3 sticks and 4 cocoa beans; no wall cell named for me
